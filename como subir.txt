@@ -1,0 +1,5 @@
+Build
+ng build --base-href "https://cavoso.github.io/codesouls/"
+
+Upload
+npx angular-cli-ghpages --dir=dist/codesouls/browser   
